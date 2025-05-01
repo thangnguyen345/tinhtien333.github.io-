@@ -1,0 +1,8 @@
+{
+    "blacklist": [
+        "example1.com",
+        "badwebsite.net",
+        "phishing-site.org",
+        "scam123.io"
+    ]
+}
